@@ -8,7 +8,18 @@ This repository contains a simple implementation of the classic Tic Tac Toe game
 
 ## Setup
 
-[Instructions for setting up the project will be added here]
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/EdgarPE/tmp_tic_tac_toe.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd tmp_tic_tac_toe
+   ```
+
+[Additional setup instructions will be added as the project develops]
 
 ## How to Play
 
@@ -20,4 +31,4 @@ We welcome contributions to improve this Tic Tac Toe game. Please feel free to s
 
 ## License
 
-[License information will be added here]
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
