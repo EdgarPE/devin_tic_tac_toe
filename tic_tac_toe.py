@@ -10,7 +10,7 @@ class TicTacToe:
                 print('---------')
 
     def make_move(self, position):
-        if self.board[position] == ' ':
+        if 0 <= position <= 8 and self.board[position] == ' ':
             self.board[position] = self.current_player
             self.current_player = 'O' if self.current_player == 'X' else 'X'
             return True
